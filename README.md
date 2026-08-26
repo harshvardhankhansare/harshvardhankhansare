@@ -94,36 +94,7 @@ Interactive interior design platform with real-time 3D product exploration using
 
 [🔗 View Repo](https://github.com/your-username/unitydesignx)
 
-</td>
-<td width="50%" valign="top">
-
-**✨ What's next**
-
-Currently prepping for placements — sharpening DSA, system design, and shipping polished product case studies from the projects above.
-
-</td>
 </tr>
 </table>
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&style=flat-square&color=2E9EF7" alt="profile views" />
-</p>
