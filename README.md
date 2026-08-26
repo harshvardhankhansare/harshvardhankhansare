@@ -61,11 +61,11 @@
 
 ### 📌 Featured Projects
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=2E9EF7&height=55&section=header&text=Global%20AI%20Opportunity%20Tracker&fontSize=18&fontColor=ffffff&fontAlignY=65&width=700" width="100%"/>
 
-**🌍 Global AI Opportunity Tracker**
 *Flutter · Firebase · Riverpod · REST API · 2025–2026*
 
 Cross-platform Android/iOS app aggregating AI and tech events from 10+ platforms. Led the mobile module — UI, architecture, state management, search, filters, offline caching. Integrated REST APIs, Firebase/FCM, JWT auth, and bookmarking across 9 screens.
@@ -74,9 +74,9 @@ Cross-platform Android/iOS app aggregating AI and tech events from 10+ platforms
 
 </td>
 <td width="50%" valign="top">
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=17A673&height=55&section=header&text=Athletics%20360&fontSize=18&fontColor=ffffff&fontAlignY=65&width=700" width="100%"/>
 
-**🏃 Athletics 360 — Google Hackathon Project**
-*Flutter · Supabase · Gemini API*
+*Flutter · Supabase · Gemini API — Google Hackathon Project*
 
 Designed and developed the mobile UI for an athletics management platform. Integrated Supabase for auth, database, and storage, plus Gemini API for AI-powered performance insights.
 
@@ -86,15 +86,45 @@ Designed and developed the mobile UI for an athletics management platform. Integ
 </tr>
 <tr>
 <td width="50%" valign="top">
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=8E44AD&height=55&section=header&text=UnityDesignX&fontSize=18&fontColor=ffffff&fontAlignY=65&width=700" width="100%"/>
 
-**🎨 UnityDesignX — Interior Design Platform**
-*PHP · JavaScript · Three.js*
+*PHP · JavaScript · Three.js — Interior Design Platform*
 
 Interactive interior design platform with real-time 3D product exploration using Three.js, and a responsive UI focused on usability.
 
 [🔗 View Repo](https://github.com/your-username/unitydesignx)
 
+</td>
+<td width="50%" valign="top">
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=F39C12&height=55&section=header&text=What's%20Next&fontSize=18&fontColor=ffffff&fontAlignY=65&width=700" width="100%"/>
+
+*Currently prepping for placements*
+
+Sharpening DSA, system design, and shipping polished product case studies from the projects above.
+
+</td>
 </tr>
 </table>
 
 ---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-username&style=flat-square&color=2E9EF7" alt="profile views" />
+</p>
